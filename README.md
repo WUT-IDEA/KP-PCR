@@ -1,6 +1,10 @@
 ## File organization
 
-Training data is available at https://archive.org/download/stackexchange/codereview.stackexchange.com.7z.
+Download all the data from the following link:
+
+```
+https://archive.org/download/stackexchange/codereview.stackexchange.com.7z
+```
 
 ## Experiment replication steps
 
