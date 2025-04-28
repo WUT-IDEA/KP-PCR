@@ -1,10 +1,8 @@
 ## File organization
 
 Download all the data from the following link:
-
-```
 https://archive.org/download/stackexchange/codereview.stackexchange.com.7z
-```
+
 
 ## Experiment replication steps
 
