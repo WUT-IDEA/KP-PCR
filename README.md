@@ -1,8 +1,14 @@
 ## File organization
 
-Download all the data from the following link:
-https://archive.org/download/stackexchange/codereview.stackexchange.com.7z
+Download all the data and the fine-tuned model from the following links:
 
+- ###### data:
+
+`https://drive.google.com/file/d/1h9vl_gb5HXp68S3bkIGs71Zne3M4DiFR/view?usp=sharing`
+
+- ###### fine-tuned model:
+
+`https://drive.google.com/file/d/1Q738E4NhUuyrnlWNhnxt-XpAYGt67UBZ/view?usp=sharing`
 
 ## Experiment replication steps
 
